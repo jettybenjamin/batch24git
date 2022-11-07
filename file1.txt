@@ -2,3 +2,4 @@ Git as a version control system
 Git clone demo
 Git fetch demo
 git pull demo
+git fetch demo2
