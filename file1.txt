@@ -3,3 +3,4 @@ Git clone demo
 Git fetch demo
 git pull demo
 git fetch demo2
+git pull demo2
